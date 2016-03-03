@@ -17,34 +17,32 @@ public interface TagInfoBeanImpl {
 
     /**
      * tag
-     * @return
+     * @return Object
      */
     public Object getTag ();
 
     /**
      * is show
-     * @return
+     * @return boolean
      */
     public boolean isShowable ();
     /**
      *
-     * @return
+     * @return float
      */
     public float getPositionX ();
     /**
      *
-     * @return
+     * @return float
      */
     public float getPositionY ();
 
     /**
      *
-     * @return
      */
     public void setPositionX (float positionX);
     /**
      *
-     * @return
      */
     public void setPositionY (float positionY);
 

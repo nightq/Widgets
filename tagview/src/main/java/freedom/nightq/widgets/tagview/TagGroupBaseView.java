@@ -60,7 +60,7 @@ public class TagGroupBaseView<T extends TagDirectionBaseView> extends RelativeLa
     /**
      * rect  数据
      * 存放中间点的rect
-     * @warn 在layout 之后通过 才获取到的
+     * warn 在layout 之后通过 才获取到的
      */
     public Rect rectForPoint;
 

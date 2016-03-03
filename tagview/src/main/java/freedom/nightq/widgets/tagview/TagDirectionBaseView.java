@@ -21,7 +21,7 @@ import freedom.nightq.widgets.tagview.util.ToolUtil;
 
 /**
  * 每个tag group view 在一个方向的layout，一般结构是 （阿迪达斯 童装）或者 （1080 人民币）
- * @warn 只能用在tag group view 中, tag view 的 imageTag 会包含 bean
+ * warn 只能用在tag group view 中, tag view 的 imageTag 会包含 bean
  */
 public class TagDirectionBaseView extends LinearLayout {
 
