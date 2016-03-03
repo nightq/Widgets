@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/bg_dialog"
+    android:layout_gravity="center"
+    android:minWidth="270dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/jumpDialog_1"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:minWidth="270dp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/jumpDialog_iv1"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/jumpDialog_tv1"
+            android:textColor="@color/btn_dlg_item_color"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jumpDialog_line1"
+        android:visibility="gone"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/timehut_gray" />
+
+    <LinearLayout
+        android:id="@+id/jumpDialog_2"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:minWidth="270dp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/jumpDialog_iv2"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/jumpDialog_tv2"
+            android:textColor="@color/btn_dlg_item_color"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jumpDialog_line2"
+        android:visibility="gone"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/timehut_gray" />
+
+    <LinearLayout
+        android:id="@+id/jumpDialog_3"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:minWidth="270dp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/jumpDialog_iv3"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/jumpDialog_tv3"
+            android:textColor="@color/btn_dlg_item_color"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jumpDialog_line3"
+        android:visibility="gone"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/timehut_gray" />
+
+    <LinearLayout
+        android:id="@+id/jumpDialog_4"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:minWidth="270dp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/jumpDialog_iv4"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/jumpDialog_tv4"
+            android:textColor="@color/btn_dlg_item_color"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jumpDialog_line4"
+        android:visibility="gone"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/timehut_gray" />
+
+    <LinearLayout
+        android:id="@+id/jumpDialog_5"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:minWidth="270dp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/jumpDialog_iv5"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/jumpDialog_tv5"
+            android:textColor="@color/btn_dlg_item_color"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/jumpDialog_line5"
+        android:visibility="gone"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/timehut_gray" />
+
+    <LinearLayout
+        android:id="@+id/jumpDialog_6"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:minWidth="270dp"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/jumpDialog_iv6"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/jumpDialog_tv6"
+            android:textColor="@color/btn_dlg_item_color"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>
