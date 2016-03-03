@@ -4,6 +4,6 @@ tagview
 
 图片实例
 ===
-<img src="https://github.com/nightq/Widgets/raw/master/tagview/sample/sample1.png"/>
-<img src="https://github.com/nightq/Widgets/raw/master/tagview/sample/sample1.png"/>
-![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
+![添加前](https://github.com/nightq/Widgets/raw/master/tagview/sample/sample1.png)
+![添加](https://github.com/nightq/Widgets/raw/master/tagview/sample/sample2.png)
+![添加后](https://github.com/nightq/Widgets/raw/master/tagview/sample/sample3.png)
