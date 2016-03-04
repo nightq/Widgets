@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="timehut_red">#ff5050</color>
+    <color name="timehut_txt_drakGray">#575757</color>
+    <color name="timehut_gray">#dddddd</color>
+</resources>

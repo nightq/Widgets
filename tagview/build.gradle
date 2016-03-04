@@ -38,7 +38,7 @@ install {
         pom {
             project {
                 packaging 'aar'
-                name 'Widget TagView'
+                name 'TagView'
                 url siteUrl
                 licenses {
                     license {
