@@ -1,4 +1,5 @@
 language: android
+jdk: openjdk7
 android:
   components:
     # Uncomment the lines below if you want to
@@ -19,6 +20,3 @@ android:
     # Specify at least one system image,
     # if you need to run emulator(s) during your tests
     - sys-img-armeabi-v7a-android-19
-
-  jdk:
-    - openjdk8
