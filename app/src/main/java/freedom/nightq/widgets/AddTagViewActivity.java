@@ -49,6 +49,7 @@ public class AddTagViewActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        toolbar.setTitle("ffff");
         mJumpDialog = new JumpDialog(this,
                 new int[]{R.string.overturnTag, R.string.deleteTag},
                 this);
